@@ -3,7 +3,8 @@ body {
 }
 
 .jumbotron {
-    background: linear-gradient(to right, #3bd6d8, #A688DD, #734abf);
+    margin: 0;
+    background: linear-gradient(to right, #1fb3b6, #A688DD, #734abf);
     color: white;
 }
 
@@ -16,7 +17,7 @@ h2 {
 }
 
 header h3 {
-    color: #734ABF;
+    color: #e6dff3;
 }
 
 .row-content {
@@ -27,4 +28,8 @@ header h3 {
 footer {
     background-image: linear-gradient(#98E1E2, white);
     padding: 20px 0;
+}
+
+.navbar {
+    background-color: #734adf;
 }
