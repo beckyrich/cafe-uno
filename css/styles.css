@@ -33,3 +33,7 @@ footer {
 .navbar {
     background-color: #734adf;
 }
+
+.carousel {
+    border: #734adf solid;
+}
